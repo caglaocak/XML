@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+	<BOOK>
+		<ID>01</ID>
+		<TITLE>1984</TITLE>
+		<AUTHOR>George Orwell</AUTHOR>
+		<PUBLISHER>Can Yayınları</PUBLISHER>
+		<ISBN>9789750718533</ISBN>
+		<YEAR>2000</YEAR>
+        <PRICE>21,39 TL</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/1984/Edebiyat/Roman/Dunya-Roman/urunno=0000000064038</URL>
+        <LANGUAGE>Türkçe</LANGUAGE>
+</BOOK>
+	<BOOK>
+		<ID>02</ID>
+		<TITLE></TITLE>
+		<AUTHOR></AUTHOR>
+		<PUBLISHER></PUBLISHER>
+		<ISBN></ISBN>
+		<YEAR></YEAR>
+        <PRICE></PRICE>
+		<URL></URL>
+        <LANGUAGE></LANGUAGE>
+</BOOK>
+	<BOOK>
+		<ID>03</ID>
+		<TITLE></TITLE>
+		<AUTHOR></AUTHOR>
+		<PUBLISHER></PUBLISHER>
+		<ISBN></ISBN>
+		<YEAR></YEAR>
+        <PRICE></PRICE>
+		<URL></URL>
+        <LANGUAGE></LANGUAGE>
+</BOOK>
+
