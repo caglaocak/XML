@@ -10,7 +10,7 @@
         <PRICE>21,39 TL</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/1984/Edebiyat/Roman/Dunya-Roman/urunno=0000000064038</URL>
         <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>
+    </BOOK>
 	<BOOK>
 		<ID>02</ID>
 		<TITLE>Gör Beni-İki Devrin Hikayesi</TITLE>
@@ -21,7 +21,7 @@
         <PRICE>23,83 TL</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Gor-Beni-Iki-Devrin-Hikayesi/Azra-Kohen/Edebiyat/Roman/Turkiye-Roman/urunno=0001793197001</URL>
         <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>
+    </BOOK>
 	<BOOK>
 		<ID>03</ID>
 		<TITLE>Hayat Cesurlara Torpil Geçer</TITLE>
@@ -32,7 +32,7 @@
         <PRICE>9,26 TL</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Hayat-Cesurlara-Torpil-Gecer/Egitim-Basvuru/Kisisel-Gelisim/urunno=0001751232001</URL>
         <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>
+    </BOOK>
 	<BOOK>
 		<ID>04</ID>
 		<TITLE>Camdaki Kız</TITLE>
@@ -43,7 +43,7 @@
         <PRICE>23,98 TL</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Camdaki-Kiz/Edebiyat/Roman/Turkiye-Roman/urunno=0001799178001</URL>
         <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>
+    </BOOK>
 	<BOOK>
 		<ID>05</ID>
 		<TITLE>Bir Ömür Nasıl Yaşanır?</TITLE>
@@ -54,7 +54,8 @@
         <PRICE>17,88 TL</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Bir-Omur-Nasil-Yasanir/Ilber-Ortayli/Egitim-Basvuru/Kisisel-Gelisim/urunno=0001796150001</URL>
         <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>	<BOOK>
+    </BOOK>
+    <BOOK>
 		<ID>06</ID>
 		<TITLE>Ölüler Diyarı</TITLE>
 		<AUTHOR>Jean-Christophe Grange</AUTHOR>
@@ -64,7 +65,7 @@
         <PRICE>25,28 TL</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Oluler-Diyari/Jean-Christophe-Grange/Edebiyat/Roman/Polisiye/urunno=0001796089001</URL>
         <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>
+    </BOOK>
 	<BOOK>
 		<ID>07</ID>
 		<TITLE>Bilinmeyen Bir Kadının Mektubu</TITLE>
@@ -75,7 +76,8 @@
         <PRICE>4,68 TL</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Bilinmeyen-Bir-Kadinin-Mektubu/Edebiyat/Roman/Dunya-Roman/urunno=0000000411059</URL>
         <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>	<BOOK>
+    </BOOK>	
+    <BOOK>
 		<ID>08</ID>
 		<TITLE>Olağanüstü Bir Gece</TITLE>
 		<AUTHOR>Stefan Zweig</AUTHOR>
@@ -85,7 +87,7 @@
         <PRICE>5,19 TL</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Olaganustu-Bir-Gece/Edebiyat/Roman/Dunya-Roman/urunno=0000000671636</URL>
         <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>
+    </BOOK>
 	<BOOK>
 		<ID>09</ID>
 		<TITLE>Mecburiyet</TITLE>
@@ -96,7 +98,8 @@
         <PRICE>3,89 TL</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Mecburiyet/Edebiyat/Roman/Dunya-Roman/urunno=0001720944001</URL>
         <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>	<BOOK>
+    </BOOK>	
+    <BOOK>
 		<ID>10</ID>
 		<TITLE>Vazgeçebilmek</TITLE>
 		<AUTHOR>Guy Finley</AUTHOR>
@@ -106,7 +109,7 @@
         <PRICE>14,44 TL</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Vazgecebilmek/Egitim-Basvuru/Kisisel-Gelisim/urunno=0001691198001</URL>
         <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>
+    </BOOK>
 	<BOOK>
 		<ID>11</ID>
 		<TITLE>DönüşümFranz Kafka</TITLE>
@@ -117,7 +120,8 @@
         <PRICE>4,68 TL</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Donusum/Edebiyat/Roman/Dunya-Roman/urunno=0000000561966</URL>
         <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>	<BOOK>
+    </BOOK>
+    <BOOK>
 		<ID>12</ID>
 		<TITLE>Otomatik Portakal Anthony Burgess</TITLE>
 		<AUTHOR> Anthony Burgess</AUTHOR>
@@ -127,7 +131,7 @@
         <PRICE>9,07 TL</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Otomatik-Portakal/Edebiyat/Roman/Dunya-Roman/urunno=0000000293370</URL>
         <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>
+    </BOOK>
 	<BOOK>
 		<ID>13</ID>
 		<TITLE>Sineklerin Tanrısı</TITLE>
@@ -138,7 +142,8 @@
         <PRICE>12,48 TL</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Sineklerin-Tanrisi/Edebiyat/Roman/Dunya-Roman/urunno=0000000107800</URL>
         <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>	<BOOK>
+    </BOOK>	
+    <BOOK>
 		<ID>14</ID>
 		<TITLE>Serenad</TITLE>
 		<AUTHOR>Zülfü Livaneli</AUTHOR>
@@ -148,7 +153,7 @@
         <PRICE>22,69 TL</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Serenad/Edebiyat/Roman/Turkiye-Roman/urunno=0000000357335</URL>
         <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>
+    </BOOK>
 	<BOOK>
 		<ID>15</ID>
 		<TITLE>Aeden</TITLE>
@@ -159,7 +164,8 @@
         <PRICE>21,39 TL</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Aeden/Edebiyat/Roman/Turkiye-Roman/urunno=0001765696001</URL>
         <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>	<BOOK>
+    </BOOK>	
+    <BOOK>
 		<ID>16</ID>
 		<TITLE>Kırlangıç Çığlığı</TITLE>
 		<AUTHOR>Ahmet Ümit</AUTHOR>
@@ -169,7 +175,7 @@
         <PRICE>17,72 TL</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Kirlangic-Cigligi/Edebiyat/Roman/Polisiye/urunno=0001746599001</URL>
         <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>
+    </BOOK>
 	<BOOK>
 		<ID>17</ID>
 		<TITLE>Kendine Ait Bir Oda</TITLE>
@@ -180,7 +186,8 @@
         <PRICE>5,50 TL</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Kendine-Ait-Bir-Oda/Edebiyat/Roman/Dunya-Roman/urunno=0001704325001</URL>
         <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>	<BOOK>
+    </BOOK>	
+    <BOOK>
 		<ID>18</ID>
 		<TITLE>Çavdar Tarlasında Çocuklar</TITLE>
 		<AUTHOR>Jerome David Salinger</AUTHOR>
@@ -190,7 +197,7 @@
         <PRICE>10,37 TL</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Cavdar-Tarlasinda-Cocuklar/Edebiyat/Roman/Dunya-Roman/urunno=0000000058117</URL>
         <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>
+    </BOOK>
 	<BOOK>
 		<ID>19</ID>
 		<TITLE>Üç Kız Kardeş</TITLE>
@@ -201,7 +208,8 @@
         <PRICE>15,28 TL</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Uc-Kiz-Kardes/Edebiyat/Roman/Turkiye-Roman/urunno=0001743040001</URL>
         <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>	<BOOK>
+    </BOOK>
+    <BOOK>
 		<ID>20</ID>
 		<TITLE>Kaktüsler de Çiçek Açar</TITLE>
 		<AUTHOR>Songül Ünsal</AUTHOR>
@@ -209,7 +217,8 @@
 		<ISBN>97860579061202019</ISBN>
 		<YEAR>2019</YEAR>
         <PRICE>10,55 TL</PRICE>
-		<URL>https://www.dr.com.tr/Kitap/Kaktusler-de-Cicek-Acar/Edebiyat/Roman/Turkiye-Roman/urunno=0001795983001</URL>
-        <LANGUAGE>Türkçe</LANGUAGE>
-</BOOK>
+		<URL>https://www.dr.com.tr/Kitap/Kaktusler-de-Cicek-Acar/Edebiyat/Roman/Turkiye-Roman/urunno=0001795983001</URL><LANGUAGE>Türkçe</LANGUAGE>
+    </BOOK>
+</CATALOG>
+
 
