@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/BY48KuWOaL9iAiDbP0XxzX#"
+     xml:base="http://webprotege.stanford.edu/project/BY48KuWOaL9iAiDbP0XxzX"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/project/BY48KuWOaL9iAiDbP0XxzX"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/title -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/title"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R3huniPrcb3wbd0QEqBiy2 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R3huniPrcb3wbd0QEqBiy2">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBl0WDBjxnoLO0OIDiuxkyO"/>
+        <rdfs:label>Sosyal Danslar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R791RcDpaVOQosmc6bwSpJo -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R791RcDpaVOQosmc6bwSpJo">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cf6irmMBbCYaysEhX9mRi"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Horon</dc:title>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Horon</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7sM5EeWMouSn00FLk9YOZQ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7sM5EeWMouSn00FLk9YOZQ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8ebSZAX8kAwXslNF2S0BEN"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vals</dc:title>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vals</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8YfGLSYQd0RQihbLcJHwx1 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8YfGLSYQd0RQihbLcJHwx1">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9wik5VYFFjPWZpkkY5o5ro"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hip Hop</dc:title>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hip Hop</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8ebSZAX8kAwXslNF2S0BEN -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8ebSZAX8kAwXslNF2S0BEN">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBl0WDBjxnoLO0OIDiuxkyO"/>
+        <rdfs:label>Salon Dansları</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8g9oZNc0wJmpgnvz3vGjFj -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8g9oZNc0wJmpgnvz3vGjFj">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R3huniPrcb3wbd0QEqBiy2"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Salsa</dc:title>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Salsa</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8wp2nIfygRRQjX4WQfMj85 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8wp2nIfygRRQjX4WQfMj85">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8ebSZAX8kAwXslNF2S0BEN"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rumba</dc:title>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rumba</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9AX6Nu4ZZ3WyCYR7tML3iD -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9AX6Nu4ZZ3WyCYR7tML3iD">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9wik5VYFFjPWZpkkY5o5ro"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Solo</dc:title>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Solo</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9NcuLeRnEVWblCozVqdl1z -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9NcuLeRnEVWblCozVqdl1z">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9wik5VYFFjPWZpkkY5o5ro"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Break</dc:title>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Break</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9cf6irmMBbCYaysEhX9mRi -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9cf6irmMBbCYaysEhX9mRi">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBl0WDBjxnoLO0OIDiuxkyO"/>
+        <rdfs:label>Halk Oyunları</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9wik5VYFFjPWZpkkY5o5ro -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9wik5VYFFjPWZpkkY5o5ro">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBl0WDBjxnoLO0OIDiuxkyO"/>
+        <rdfs:label>Modern Danslar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBl0WDBjxnoLO0OIDiuxkyO -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBl0WDBjxnoLO0OIDiuxkyO">
+        <rdfs:label>Dans Türleri</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBmimbYGcR2JLrKls61HvAk -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBmimbYGcR2JLrKls61HvAk">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8ebSZAX8kAwXslNF2S0BEN"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tango</dc:title>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tango</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC4eH7Q1Et1pLalxLBnl1Mc -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RC4eH7Q1Et1pLalxLBnl1Mc">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R3huniPrcb3wbd0QEqBiy2"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bachata</dc:title>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bachata</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC8bV5NykRIZYfLtukEZr3f -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RC8bV5NykRIZYfLtukEZr3f">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R3huniPrcb3wbd0QEqBiy2"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kizomba</dc:title>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kizomba</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCJL990GYw9xKYn7NMKlQlr -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCJL990GYw9xKYn7NMKlQlr">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8ebSZAX8kAwXslNF2S0BEN"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samba</dc:title>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samba</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCSx9tPylpv3jO9oE0IOwkS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCSx9tPylpv3jO9oE0IOwkS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cf6irmMBbCYaysEhX9mRi"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kaşık</dc:title>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kaşık</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RLBeS1Onhs1bdpTwqXrO2q -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RLBeS1Onhs1bdpTwqXrO2q">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cf6irmMBbCYaysEhX9mRi"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kafkas</dc:title>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kafkas</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RXsPGDIhRmKlS0MjynSzQ7 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RXsPGDIhRmKlS0MjynSzQ7">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cf6irmMBbCYaysEhX9mRi"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zeybek</dc:title>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zeybek</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RnK7vrUJwmMRR0053DtrUG -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RnK7vrUJwmMRR0053DtrUG">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9wik5VYFFjPWZpkkY5o5ro"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Urban</dc:title>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Urban</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RwOw9OdX6Z3MaQzhL8uQOI -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RwOw9OdX6Z3MaQzhL8uQOI">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R3huniPrcb3wbd0QEqBiy2"/>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rock&apos;n&apos;roll</dc:title>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rock&apos;n&apos;roll</rdfs:label>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.10) https://github.com/owlcs/owlapi -->
+
